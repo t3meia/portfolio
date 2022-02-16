@@ -45,7 +45,7 @@ header {
 	background-color: #1b2392;
 	display: flex;
 	align-items: center;
-	background-image: url(/images/mainsectionbackimg.jpg);
+	background-image: url(images/mainsectionbackimg.jpg);
 	background-size: 180px 100px;
 }
 
@@ -112,7 +112,7 @@ header {
 }
 
 .card {
-	background-image: url(/images/mainsectionbackimg.jpg);
+	background-image: url(images/mainsectionbackimg.jpg);
 	width: 230px;
 	padding: 20px;
 	margin: 5px;
