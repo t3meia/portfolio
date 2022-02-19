@@ -87,12 +87,23 @@ header {
 	color: #ff7300;
 	padding-right: 7px;
 	font-size: 1.5em;
-	transition: 0.4s ease;
 }
 
-.social-icons a:hover {
-	transform: scale(1.1);
+.benz {
+	background-image: url(/p19927_t186_2021_1_001_000.jpg);
+	display: inline;
+	padding: 200px;
+	margin-right: 0px;
+	margin-left: 80px;
+  border-radius: 8em;
+	border: 10px solid #ff7300;
+	font-size: 2.5em;
+	background-position: bottom;
+	background-size: 430px;
+	background-repeat: no-repeat;
+	min-height: 100vh;
 }
+
 
 .skillssec {
 	color: #ff7300;
